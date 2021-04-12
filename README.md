@@ -1,3 +1,3 @@
 # Google-task
 
-My Host Link: https://ayomoses1.github.io/Google-task/
+My Repo Link: https://github.com/AyoMoses1/Google-task
